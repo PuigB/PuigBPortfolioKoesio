@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/blog-post.astro
-title: Article 1 
-description: Présentation de l'entreprise
-thumbnail: Koesio.png
+title: Hello, world!
+description: yea
+thumbnail: hello-world.png
 draft: false
-date: 26/07/2022
+date: 07-25-2022
 keywords:
-- Koesio
+- Fluff
 ---
