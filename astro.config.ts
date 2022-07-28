@@ -6,7 +6,7 @@ import prefetch from "@astrojs/prefetch";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://buigbportfolio.ddns.net",
+  site: "https://puigbportfolio.ddns.net",
   integrations: [
     react(),
     tailwind(),
