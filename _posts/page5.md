@@ -14,3 +14,5 @@ J'ai pu renforcer mes connaissances techniques mais aussi nouer des liens avec m
 
 La collaboration avec différents services et de nombreux interlocuteurs m'a sensibilisé à la nécessité de bien expliquer pourquoi il est indispensable de mettre en place certaines solutions et contraintes pour les salariés.
 Ce stage m'a permis d'améliorer ma communication avec des novices en informatique.
+
+Je ressors encore grandis de cette expérience et j'espère pouvoir continuer à progresser dans ma future entreprise autant techniquement qu'humainement.
